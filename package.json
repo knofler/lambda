@@ -1,4 +1,13 @@
 {
+  "name": "lambda-serverless",
+  "version": "1.0.0",
+  "description": "Serverless lambda development toolkit",
+  "author": "Rumman Ahmed",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:knofler/lambda.git"
+  },
   "dependencies": {
     "express": "^4.16.3",
     "serverless": "^1.44.1",
